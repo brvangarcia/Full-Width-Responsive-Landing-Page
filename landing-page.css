@@ -1,0 +1,16 @@
+html, body{
+  margin: 0 auto;
+	height: 100%;
+}
+
+#header {
+	background-image: url("https://static.pexels.com/photos/2773/city-skyline-skyscrapers-top.jpg");
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	margin: 0 auto;
+}
